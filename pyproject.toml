@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "florilegium"
+version = "0.1.0"
+description = "Keyword-triggered context entries for chat apps: a slim SillyTavern World Info engine, standard library only"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [{ name = "Lucian" }]
+dependencies = []
+
+[tool.setuptools]
+packages = ["florilegium"]
