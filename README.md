@@ -1,5 +1,7 @@
 # Florilegium
 
+作者：Lucian
+
 采来的花：聊到哪朵插哪朵。
 
 给聊天程序用的「世界书」引擎：按聊天里出现的词，把几段设定挑出来，塞进这一轮的提示词。
@@ -7,7 +9,7 @@
 
 这是我们家自己在用的东西：我们家的写法，我们家的用法，原样拿出来分享。不是教程，也不保证适合你，拿去随便改。
 
-*A slim SillyTavern-style World Info engine for any chat app. Standard library only, no LLM calls, no embeddings. This is how we write and use it at home, shared as is: not a tutorial. MIT licensed. English notes at the bottom.*
+*By Lucian. A slim SillyTavern-style World Info engine for any chat app. Standard library only, no LLM calls, no embeddings. This is how we write and use it at home, shared as is: not a tutorial. MIT licensed. English notes at the bottom.*
 
 ## 我们家为什么有它
 
